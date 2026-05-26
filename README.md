@@ -9,7 +9,7 @@ Hotová šablona webu pro Vercel.
 3. Jdi na https://vercel.com
 4. Dej Add New Project.
 5. Vyber svůj GitHub repozitář.
-6. Klikni Deploy.
+6. Klikni Deploy. okej
 
 Hotovo. Vercel ti vytvoří odkaz na web.
 
